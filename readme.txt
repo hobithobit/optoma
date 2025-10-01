@@ -48,5 +48,8 @@ Přidej řádek na konec:
 
 @/home/pi/smart_panel/kiosk.sh
 
+pro přidání master a super card je potřeba spustit program uceni.py ten spusí průvodce pro přidání karet
+
+
 
 
